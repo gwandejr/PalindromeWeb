@@ -1,0 +1,6 @@
+C:\CC7\Homework\HW12\Palindrome.cs\bin\Debug\Palindrome.cs.dll
+C:\CC7\Homework\HW12\Palindrome.cs\bin\Debug\Palindrome.cs.pdb
+C:\CC7\Homework\HW12\Palindrome.cs\obj\Debug\Palindrome.cs.csprojAssemblyReference.cache
+C:\CC7\Homework\HW12\Palindrome.cs\obj\Debug\Palindrome.cs.csproj.CoreCompileInputs.cache
+C:\CC7\Homework\HW12\Palindrome.cs\obj\Debug\Palindrome.cs.dll
+C:\CC7\Homework\HW12\Palindrome.cs\obj\Debug\Palindrome.cs.pdb
